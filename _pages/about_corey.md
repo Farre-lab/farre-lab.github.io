@@ -1,0 +1,4 @@
+PhD student.
+
+I previously studied a BSc in Biology and MSc by Research in Genetics at the University of Kent. It was here that I became interested in applied genetics and genomics for environmental and conservation research. I then went on to work as a Research Assistant at the University of Aberdeen in bioinformatics and metagenomics of microorganisms in soil ecosystems.
+My PhD project in the Farré lab aims to address the loss of biodiversity in Gabon by using genetic and genomic techniques to inform the management of a declining ruminant species, the waterbuck (Kobus ellipsiprymnus), through working with the Aspinall Foundation and researchers in Gabon. This project is funded by the Global Challenges Doctoral Centre.

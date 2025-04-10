@@ -1,0 +1,2 @@
+I finished my PhD in Biology in 2012, in Dr. Ruiz-Herrera lab at the Universitat Autònoma de Barcelona (Spain). During that time I also had the opportunity to do a research stage at Prof. Townsend lab at Yale University (USA). In September 2012, I moved to Aberystwyth University to work with Dr. Denis Larkin. And in 2013 Larkin lab moved to Royal Veterinary College, in London. 
+I started at University of Kent as a Lecturer in Genomics on October 2018.
