@@ -25,17 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "These are the repositories and users in the Farré lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "nav-people",
           title: "people",
@@ -426,16 +419,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-congratulations-to-dr-frances-burden-the-second-phd-student-of-the-lab-gradutes-sparkle-smiley-mouse",
+          title: 'Congratulations to Dr Frances Burden! The Second PhD student of the lab gradutes!...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-congratulations-to-dr-carla-canedo-ribeiro-the-third-phd-student-of-the-lab-gradutes-smile-pig-cow",
+          title: 'Congratulations to Dr Carla Canedo-Ribeiro! The Third PhD student of the lab gradutes!...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-we-welcome-caitlin-price-new-socobio-phd-student-caitlin-will-work-on-spider-genomics-sparkles-smile",
+          title: 'We welcome Caitlin Price, new SoCoBio PhD student. Caitlin will work on spider...',
+          description: "",
+          section: "News",},{id: "news-congratulations-to-dr-corey-kirkland-the-4th-phd-student-of-the-lab-graduates-smiley-cow2-water-buffalo",
+          title: 'Congratulations to Dr Corey Kirkland! The 4th PhD student of the lab graduates!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -487,14 +481,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6D.%66%61%72%72%65-%62%65%6C%6D%6F%6E%74%65@%6B%65%6E%74.%61%63.%75%6B", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/Farre_lab", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/farre_lab", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-9170-5767", "_blank");
         },
       },{
         id: 'social-rss',
@@ -508,14 +516,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=845VbXgAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
