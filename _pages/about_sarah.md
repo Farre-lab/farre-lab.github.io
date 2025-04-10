@@ -1,3 +1,3 @@
-PhD student.
+**PhD student.**
 
 In 2020 I graduated from the university of Essex with my bachelor’s in biological sciences; following this I remained to work with Dr Ben Skinner undertaking a research masters in computational genomics - project title: Am I repeating myself? Determining the repetitive landscape of the pig X chromosome. This work led me to discover my passion in evolutionary and structural genomics, particularly with using bioinformatic techniques. Upon finishing my research masters I was presented the opportunity to join the university of Kent to begin my PhD from May 2022. My project in the Farré lab is focusing on evolutionary breakpoint regions, through annotation and comparison of EBRs in mammals we can gain further insight into the distribution patterns and mechanisms of EBR formation.
