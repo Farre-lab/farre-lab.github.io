@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - fburden44
+  - coreykirkland
+  - Squigley18
+  - marta-fb
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Farre_lab/Kirkland_Waterbuck
+  - Farre_lab/Kirkland_Bovidae
+  - Farre_lab/syntenyPlotteR
+  - Farre_lab/syntenyPlotteR.BETA
