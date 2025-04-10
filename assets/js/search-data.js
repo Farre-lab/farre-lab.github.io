@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "members of the lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -488,7 +488,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/Farre_lab", "_blank");
+          window.open("https://github.com/Farre-lab", "_blank");
         },
       },{
         id: 'social-instagram',
