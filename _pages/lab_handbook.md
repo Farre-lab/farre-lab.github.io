@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lab_handbook/
+permalink: /lab-handbook/
 nav: false
 redirect: https://farre-lab.github.io/lab-handbook/
 ---
