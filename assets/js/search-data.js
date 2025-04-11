@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-lab-handbook",
+          title: "lab handbook",
+          description: "This is the lab hanbook of Farré lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/lab_handbook/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -30,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "These are the repositories and users in the Farré lab.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab",
@@ -44,12 +44,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "These are the repositories and users in the Farré lab.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
+          },
+        },{id: "nav-news",
+          title: "news",
+          description: "News of the lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
+              },
+            },{id: "dropdown-handbook",
+              title: "handbook",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/lab_handbook";
               },
             },{id: "post-a-post-with-plotly-js",
         

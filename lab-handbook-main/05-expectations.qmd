@@ -1,0 +1,61 @@
+# Expectations {#expectations}
+
+In addition to agreeing to follow our communities codes of conduct and the university academic integrity policy, we expect everyone in the group to echo our lab culture. 
+
+Moreover, it is useful to have broad (for all lab members) and specific (i.e., grad students, research staff, etc.) expectations of our roles clarified. These are outlined below.  
+
+## Working hours
+
+I (Marta) generally do not hold people to working a fixed schedule, or to be in the office for a certain schedule. We are lucky enough to work in an area where flexible working hours and hybrid working are the norm.  
+In order to be able to interact with the rest of the group in the lab, we generally expect lab members to be on campus the majority of normal business hours (9-5pm) during the work week ~3 days per week, since this is allows for more interactions. There may be times when your project requires work late at night or on the weekends, but you are not expected to regularly work more than a normal 35-hour work week.  
+It is important that you take time off for personal life, vacations, etc. I do ask, however, that you notify me if you will be absent for >2 days, and let me know in advance of any extended leave.  
+
+
+## Email and Slack
+
+In the lab, we communicate mainly via Slack. You should therefore check your Slack often, at least twice a day during the normal work week. We also make use of Trello and Notion to record institutional knowledge and hold conversations regarding research tasks.  
+Note that being available does not mean that you are available 24/7 - this is not expected. Do not expect responses to emails or Slack messages after regular business hours on weekdays, or on weekends. However, because we recognise that lab members should be able to create a working schedule that is right for them, lab members should not be penalised for sending communication outside of business hours.   
+
+
+## Attendance at regularly scheduled events
+
+Attendance is expected at:
+
+* Weekly lab meetings  
+* Individual meetings with Marta to discuss and work on your research  
+* Pre-viva talks of members of the group  
+* Rehearsals of pre-viva talks or external seminars/conference presentations  
+* Annual Graduate research symposium
+
+Attendance is encouraged at:
+
+* FireBio  
+* Pre-viva talks of other PhD students in the School of Biosciences  
+
+
+## Expectations for the PI
+
+* Develop project ideas  
+* Interpret results  
+* Proof-read and contribute to writing of thesis, abstracts and manuscripts  
+* Discuss future career goals (e.g., do you want to teach, go into academia, continue in research?), and plan ways to facilitate these goals  
+* Organise weekly lab meetings and group journal clubs   
+* Meet biweekly to discuss progress and pitfalls on a one to one basis with each student/postdoc  
+* Serve as a role model and go-to resource for other members of the lab
+
+
+## Expectations for PhD students
+
+* Prepare for our regular progress/pitfalls meetings and a follow up email of progress and goals  
+* Write and submit manuscripts. On average, I expect most students to produce 2-3 publications over the course of their PhD, including at least one first-author paper  
+* Maintain a set of lab notes, including directories of data, annotated codes & versions, detailed methods. These need to sufficient to reproduce results without additional instructions  
+* Write thesis in due time  
+* Proof-read manuscripts from other lab members   
+* Participate in talk rehearsals of your colleagues  
+* Participate in general lab responsibilities (maintain common areas, ordering shared consumables, updating sample repository, general housekeeping of -80C and liquid nitrogen storage, ...)  
+* Present multiple research talks/posters at conferences over the course of your time in the lab. You are encouraged to do so annually, but this isn’t always possible  
+* Participate in professional development opportunities (i.e., workshops, conferences, training,...)
+* Be flexible! Additional projects may appear during the course of your PhD    
+* Serve as a role model and go-to resource for other members of the lab
+* Optional, but encouraged: Mentor/Assist in mentoring an undergraduate student during theri BIOS6000 or Summer Placement  
+
