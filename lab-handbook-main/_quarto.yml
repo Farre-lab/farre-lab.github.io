@@ -1,0 +1,34 @@
+project: 
+  type: book
+  output-dir: _book
+  
+book:
+  title: "Farré Lab Handbook"
+  author: "Marta Farré"
+  date: last-modified 
+  description: "This is the lab manual for the Farré Lab" 
+  
+  page-footer:
+    left: |
+      <a href="https://www.farre-evogenomicslab.com/">The Farré lab</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  site-url: https://farre-lab.github.io/lab-handbook/
+  repo-url: https://github.com/farre-lab/lab-handboook
+  repo-actions: [edit,issue]
+
+  chapters: 
+    - index.qmd
+    - 01-intro-the-basics.qmd
+    - 02-lab-culture-philosophy.qmd
+    - 03-code-of-conduct.qmd
+    - 04-onboarding.qmd
+    - 05-expectations.qmd
+    - 06-offboarding.qmd
+    - 07-resources.qmd
+    
+
+
+# not sure what the following line does; those files are present
+bibliography: [references.bib, book.bib]
+
