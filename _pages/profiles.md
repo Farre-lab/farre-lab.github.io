@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: members of the lab
 nav: true
-nav_order: 3
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -28,6 +28,14 @@ profiles:
   - align: left
     image: Sarah_photo.jpg
     content: about_sarah.md
+    image_circular: false # crops the image to make it circular
+  - align: right
+    image: Kammy_photo.jpg
+    content: about_kammy.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    image: Caitlin_photo.jpg
+    content: about_caitlin.md
     image_circular: false # crops the image to make it circular
   - align: left
     content: about_previous.md

@@ -8,5 +8,5 @@ children:
   - title: blog
     permalink: /blog/
   - title: handbook
-    permalink: /lab_handbook
+    permalink: /lab-handbook
 ---

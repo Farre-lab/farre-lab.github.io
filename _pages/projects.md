@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: Research interests in the lab
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work]
 horizontal: false
 ---
