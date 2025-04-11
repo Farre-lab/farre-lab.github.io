@@ -30,7 +30,7 @@ profiles:
     content: about_sarah.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: Kammy_photo.jpg
+    image: Kammy_photo.jpeg
     content: about_kammy.md
     image_circular: false # crops the image to make it circular
   - align: left
