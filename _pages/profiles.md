@@ -29,10 +29,6 @@ profiles:
     image: Sarah_photo.jpg
     content: about_sarah.md
     image_circular: false # crops the image to make it circular
-  - align: right
-    image: Kammy_photo.jpg
-    content: about_kammy.md
-    image_circular: false # crops the image to make it circular
   - align: left
     image: Caitlin_photo.jpg
     content: about_caitlin.md
