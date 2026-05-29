@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-The Farré lab has moved to the [School of Biological and Behavioural Sciences in Queen Mary University of London!] (https://www.qmul.ac.uk/sbbs/staff/marta-farre-belmonte.html) 
+The Farré lab has moved to the [School of Biological and Behavioural Sciences in Queen Mary University of London!](https://www.qmul.ac.uk/sbbs/staff/marta-farre-belmonte.html) 
 
 
